@@ -1,0 +1,52 @@
+.back-top{
+      background-color: #04a784;
+      height: 15vh;
+}
+
+.back-main{
+      background-color: #e4eeec;
+      height: 85vh;
+}
+
+.back-container{
+      position: relative;
+}
+
+.front-container{
+      position: absolute;
+      top: 0%;
+      left: 0%;
+      right: 0%;
+}
+
+.front-container1{
+      position: absolute;
+      top: 30px;
+      left: 0%;
+      right: 0%;
+}
+
+.chat-top{
+      background-color: #ffffff;
+      min-height: 50px;
+}
+
+.profile-main{
+      height: 35px;
+      width: auto;
+      margin-top: 8px;
+}
+
+.contacts{
+      background-color: #ffffff;
+      min-height: 600px;
+}
+
+.contact-table-scroll{
+      overflow: auto;
+      min-height: 100px;
+}
+
+.table{
+      min-height: 600px;
+}
