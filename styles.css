@@ -1,53 +1,64 @@
 .back-top{
-      background-color: #04a784;
-      height: 15vh;
+ background-color:  #4db2a8;
+ height: 15vh;
 }
 
 .back-main{
-      background-color: #e4eeec;
-      height: 85vh;
+ background-color:  #f2f4ef;
+ height: 85vh;
 }
 
 .back-container{
-      position: relative;
+ position: relative;
 }
 
 .front-container{
-      position: absolute;
-      top: 0%;
-      left: 0%;
-      right: 0%;
+ position: absolute;
+ top:0;
+ left:0;
+ right: 0;
 }
-
 .front-container1{
-      position: absolute;
-      top: 30px;
-      left: 0%;
-      right: 0%;
+ position: absolute;
+ top:20px;
+ left:0;
+ right: 0;
 }
 
 .chat-top{
-      background-color: #ffffff;
-      min-height: 50px;
+ background-color: #EDEDED;
+ min-height: 50px;
 }
 
-.profile-main{
-      height: 35px;
-      width: auto;
-      margin-top: 8px;
+.profile-image{
+ margin-top: 7px;
+ height: 30px;
+ width: 30px;
 }
 
 .contacts{
-      background-color: #ffffff;
-      min-height: 600px;
-}
-
-.message-area{
-      background-color: #e4e1e4;
-      min-height: 600px;
+ background-color: #ffffff;
+ min-height: 600px;
 }
 
 .contact-table-scroll{
-      overflow: auto;
-      min-height: 600px;
+ overflow-y: scroll;
+ height: 600px;
+}
+
+.message-area{
+ background-color:  #fffefd;
+ min-height: 600px;
+}
+
+.message-table-scroll{
+ overflow-y: scroll;
+ height: 550px;
+}
+
+.message-box{
+ background-color: #F0F0F0;
+}
+.row {
+    background-color: rgb(243, 240, 236);
 }
