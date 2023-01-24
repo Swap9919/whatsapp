@@ -42,11 +42,12 @@
       min-height: 600px;
 }
 
-.contact-table-scroll{
-      overflow: auto;
-      min-height: 100px;
+.message-area{
+      background-color: #e4e1e4;
+      min-height: 600px;
 }
 
-.table{
+.contact-table-scroll{
+      overflow: auto;
       min-height: 600px;
 }
